@@ -13,4 +13,8 @@ Building image/video processing projects
 - Image processing (thresholding, filters, contours)
 - Video analysis pipelines
 - Basic ML for CV tasks
-
+current project: 
+https://github.com/samanefara-cloud/opencv-aging-filter
+https://github.com/samanefara-cloud/Cartoon-Filter-with-OpenCV-and-Python
+https://github.com/samanefara-cloud/opencv-contour-pipeline
+https://github.com/samanefara-cloud/demo_contour_video
